@@ -5,7 +5,7 @@ import { HiArrowRight, HiOutlineExternalLink } from "react-icons/hi2";
 import { MdTrendingUp } from "react-icons/md";
 // Dashboard image import karein (Jo pehle dashboard.jsx mein define ki thi)
 // Ensure path correct hai, e.g., import DashboardImg from '../../assets/dashboard.png';
-import DashboardImg from '../../assets/dashboard.png'; // Update path if needed
+import DashboardImg from '../assets/dashboard.png'; // Update path if needed
 
 const Hero = () => {
     return (
