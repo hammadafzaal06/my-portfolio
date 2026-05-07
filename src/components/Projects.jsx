@@ -18,8 +18,8 @@ const Projects = () => {
         tech: ["React.js", "Tailwind CSS", "Recharts", "Lucide Icons", "Context API"],
         // Yahan aap apne screenshot ka path dein (e.g., ./assets/dashboard.png)
         image: DashboardImg,
-        github: "https://github.com/hammadafzaal06/my-dashboard.git", // Aapka original GitHub link
-        live: "https://my-dashboard-five-brown.vercel.app/" // Aapka original live link
+        github: "https://github.com/hammadafzaal06/my-dashboard", // Aapka original GitHub link
+        live: "https://my-dashboard-five-sigma.vercel.app/" // Aapka original live link
     };
 
     return (
